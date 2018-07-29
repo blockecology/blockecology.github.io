@@ -74,7 +74,27 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
-      <description>&lt;p&gt;Novel competitors can shape plant community responses to climate change, but the timescales of their effects are poorly understood. During my PhD, I will integrate field experiments with mechanistic models to explore the relative timescales of community dynamics driven by novel competitors and by changing interactions among current competitors. I will also explore the usefulness of functional traits as predictors of species responses to changing climates and competitive environments.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
+
+&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loïc Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
+
+&lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
+
+&lt;h2 id=&#34;field-experiment&#34;&gt;Field experiment&lt;/h2&gt;
+
+&lt;p&gt;We moved alpine turfs from 2000 m above sea level to sites at lower elevations in the Calanda mountain, in the eastern Swiss Alps. This imposes various degrees of warming similar to what the communities will experience in the following 100 years of climate change.&lt;/p&gt;
+
+&lt;p&gt;[[embed url=&lt;a href=&#34;http://www.youtube.com/watch?v=-aKZhiICIRY&amp;amp;t=1s]&#34; target=&#34;_blank&#34;&gt;http://www.youtube.com/watch?v=-aKZhiICIRY&amp;amp;t=1s]&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;Novel competitors can shape plant community responses to climate change, but the timescales of their effects are poorly understood. During my PhD, I will integrate field experiments with mechanistic models to explore the relative timescales of community dynamics driven by novel competitors and by changing interactions among current competitors.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
+
+&lt;p&gt;Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://sblock.weebly.com/uploads/9/5/0/0/9500225/fig-1-method-v4_orig.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
