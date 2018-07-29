@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oak Forests on Biodiversity Dynamics | Sebastian Block</title>
+    <link>https://blockecology.github.io/tags/oak-forests/</link>
+    <description>Recent content in Oak Forests on Biodiversity Dynamics | Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 31 May 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/oak-forests/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Landscape-scale effects of geomorphological heterogeneity on variability of oak forest structure and composition in a monogenetic volcanic field</title>
+      <link>https://blockecology.github.io/publication/tepoz-ped/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/tepoz-ped/</guid>
+      <description>Background: Eruptive events in monogenetic volcanic fields create mosaics of lava fields that result in different successional times and stages, and environmental conditions. Such geomorphological heterogeneity may be related to patterns of vegetation structure, diversity, and composition across a landscape.
+Aims: To examine landscape-scale effects of geomorphological heterogeneity on the spatial variability of oak forest structure and composition in a monogenetic volcanic field.
+Methods: We sampled oak forests in six geomorphological units within a monogenetic volcanic field in El Tepozteco National Park and carried out redundancy analyses to relate environmental variables to forest composition and structure.</description>
+    </item>
+    
+  </channel>
+</rss>

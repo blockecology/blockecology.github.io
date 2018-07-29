@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Biodiversity Dynamics | Sebastian Block</title>
+    <link>https://blockecology.github.io/project/</link>
+    <description>Recent content in Projects on Biodiversity Dynamics | Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Competitor Adaptation and Climate Change Responses</title>
+      <link>https://blockecology.github.io/project/cache/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/cache/</guid>
+      <description>Adaptation to competitors can promote or difficult persistence in novel environments depending on the alignment between selective pressures imposed by competitors and by the changing environment. The fine scale mosaic of selective pressures created by contrasting competitive neighbourhoods can cause patterns of local adaptation that increase the resilience of metapopulations facing climate change.</description>
+    </item>
+    
+    <item>
+      <title>Species Interactions in Warmer Alps</title>
+      <link>https://blockecology.github.io/project/warmer-mountains/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
+      <description>Novel competitors can shape plant community responses to climate change, but the timescales of their effects are poorly understood. During my PhD, I will integrate field experiments with mechanistic models to explore the relative timescales of community dynamics driven by novel competitors and by changing interactions among current competitors. I will also explore the usefulness of functional traits as predictors of species responses to changing climates and competitive environments.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tepoztlan on Biodiversity Dynamics | Sebastian Block</title>
+    <link>https://blockecology.github.io/tags/tepoztlan/</link>
+    <description>Recent content in Tepoztlan on Biodiversity Dynamics | Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/tepoztlan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Google Earth Surface Metrics to Predict Plant Species Richness in a Complex Landscape</title>
+      <link>https://blockecology.github.io/publication/tepoz-remotesensing/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
+      <description>Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information.</description>
+    </item>
+    
+  </channel>
+</rss>
