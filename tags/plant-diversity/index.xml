@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant diversity on Biodiversity Dynamics | Sebastian Block</title>
+    <link>https://blockecology.github.io/tags/plant-diversity/</link>
+    <description>Recent content in Plant diversity on Biodiversity Dynamics | Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/plant-diversity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across the region. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.
+For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.</description>
+    </item>
+    
+  </channel>
+</rss>

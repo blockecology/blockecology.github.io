@@ -69,6 +69,18 @@
     </item>
     
     <item>
+      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+
+&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Species Interactions in Warmer Alps</title>
       <link>https://blockecology.github.io/project/warmer-mountains/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -84,11 +96,9 @@
 
 &lt;h2 id=&#34;field-experiment&#34;&gt;Field experiment&lt;/h2&gt;
 
-&lt;p&gt;We moved alpine turfs from 2000 m above sea level to sites at lower elevations in the Calanda mountain, in the eastern Swiss Alps. This imposes various degrees of warming similar to what the communities will experience in the following 100 years of climate change.&lt;/p&gt;
+&lt;p&gt;We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
 
-&lt;p&gt;[[embed url=&lt;a href=&#34;http://www.youtube.com/watch?v=-aKZhiICIRY&amp;amp;t=1s]&#34; target=&#34;_blank&#34;&gt;http://www.youtube.com/watch?v=-aKZhiICIRY&amp;amp;t=1s]&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;Novel competitors can shape plant community responses to climate change, but the timescales of their effects are poorly understood. During my PhD, I will integrate field experiments with mechanistic models to explore the relative timescales of community dynamics driven by novel competitors and by changing interactions among current competitors.&lt;/p&gt;
+&lt;p&gt;{{&amp;lt; youtube aKZhiICIRY&amp;amp;t=1s &amp;gt;}}&lt;/p&gt;
 
 &lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
 
