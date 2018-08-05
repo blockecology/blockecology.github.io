@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical modeling on Biodiversity Dynamics | Sebastian Block</title>
+    <link>https://blockecology.github.io/tags/statistical-modeling/</link>
+    <description>Recent content in Statistical modeling on Biodiversity Dynamics | Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/statistical-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Species distribution modeling and fossil hunting</title>
+      <link>https://blockecology.github.io/project/fossils/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/fossils/</guid>
+      <description>Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.
+The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.</description>
+    </item>
+    
+  </channel>
+</rss>

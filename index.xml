@@ -11,6 +11,43 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+
+&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Species distribution modeling and fossil hunting</title>
+      <link>https://blockecology.github.io/project/fossils/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/fossils/</guid>
+      <description>
+
+&lt;p&gt;Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.&lt;/p&gt;
+
+&lt;p&gt;The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.&lt;/p&gt;
+
+&lt;p&gt;But within the distribution of a species, only a few organisms will be fossilized, and only a few fossils will ever be found. By modeling the probability of fossil preservation and discovery as a function of environmental variables, and combining the predictions with those of the climate-envelope model, we can detect the best areas to look for fossils of the species of interest.&lt;/p&gt;
+
+&lt;h3 id=&#34;media-coverage&#34;&gt;Media coverage&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.everythingdinosaur.co.uk/blog/_archives/2016/04/08&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Everything Dinosour&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://conservationbytes.com/2016/03/30/how-to-find-fossils/&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Conservation Bytes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adelaide.edu.au/news/news84042.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt; from the University of Adelaide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uni-kiel.de/unizeit/index.php?bid=870502&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt; in the Unizeit, newspaper of the University of Kiel (in German)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://blockecology.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
@@ -64,19 +101,13 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/cache/</guid>
-      <description>&lt;p&gt;Adaptation to competitors can promote or difficult persistence in novel environments depending on the alignment between selective pressures imposed by competitors and by the changing environment. The fine scale mosaic of selective pressures created by contrasting competitive neighbourhoods can cause patterns of local adaptation that increase the resilience of metapopulations facing climate change.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+      <description>&lt;p&gt;The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.&lt;/p&gt;
 
-&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+&lt;p&gt;I will test these ideas using a combination of greenhouse experiments and mathematical models.&lt;/p&gt;
+
+&lt;p&gt;In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; when growing in competition with different species. Then, I will use the these data to build a model that projects how a population with equal frequencies of all genotypes would evolve in each competitive environment after a certain number of generations.&lt;/p&gt;
+
+&lt;p&gt;In a second greenhouse experiment, I will first assemble &lt;em&gt;Arabidopsis&lt;/em&gt; populations that &amp;ldquo;evolved&amp;rdquo; in different competitive environments (and thus have different frequencies of the 15 initial genotypes). Then I will subject the different populations to stressful changes in abiotic conditions and assess their ability to persist.&lt;/p&gt;
 </description>
     </item>
     

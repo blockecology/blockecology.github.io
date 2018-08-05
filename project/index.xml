@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across the region. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.
+For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.</description>
+    </item>
+    
+    <item>
+      <title>Species distribution modeling and fossil hunting</title>
+      <link>https://blockecology.github.io/project/fossils/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/fossils/</guid>
+      <description>Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.
+The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.</description>
+    </item>
     
     <item>
       <title>Competitor Adaptation and Climate Change Responses</title>
@@ -18,17 +38,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/cache/</guid>
-      <description>Adaptation to competitors can promote or difficult persistence in novel environments depending on the alignment between selective pressures imposed by competitors and by the changing environment. The fine scale mosaic of selective pressures created by contrasting competitive neighbourhoods can cause patterns of local adaptation that increase the resilience of metapopulations facing climate change.</description>
-    </item>
-    
-    <item>
-      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across the region. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.
-For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.</description>
+      <description>The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.
+I will test these ideas using a combination of greenhouse experiments and mathematical models.
+In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of Arabidopsis thaliana when growing in competition with different species.</description>
     </item>
     
     <item>
