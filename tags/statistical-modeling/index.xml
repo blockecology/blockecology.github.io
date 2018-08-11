@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistical modeling on Biodiversity Dynamics | Sebastian Block</title>
+    <title>Statistical modeling on EcoDynamics | Sebastian Block</title>
     <link>https://blockecology.github.io/tags/statistical-modeling/</link>
-    <description>Recent content in Statistical modeling on Biodiversity Dynamics | Sebastian Block</description>
+    <description>Recent content in Statistical modeling on EcoDynamics | Sebastian Block</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Species distribution modeling and fossil hunting</title>
+      <title>Fossil hunting with statistical models</title>
       <link>https://blockecology.github.io/project/fossils/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
       

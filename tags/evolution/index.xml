@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evolution on Biodiversity Dynamics | Sebastian Block</title>
+    <title>Evolution on EcoDynamics | Sebastian Block</title>
     <link>https://blockecology.github.io/tags/evolution/</link>
-    <description>Recent content in Evolution on Biodiversity Dynamics | Sebastian Block</description>
+    <description>Recent content in Evolution on EcoDynamics | Sebastian Block</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Competitor Adaptation and Climate Change Responses</title>
       <link>https://blockecology.github.io/project/cache/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/cache/</guid>
       <description>The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.

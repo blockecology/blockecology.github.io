@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD on Biodiversity Dynamics | Sebastian Block</title>
+    <title>PhD on EcoDynamics | Sebastian Block</title>
     <link>https://blockecology.github.io/tags/phd/</link>
-    <description>Recent content in PhD on Biodiversity Dynamics | Sebastian Block</description>
+    <description>Recent content in PhD on EcoDynamics | Sebastian Block</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Drivers of Community Dynamics in Warmer Mountains</title>
+      <link>https://blockecology.github.io/project/warmer-mountains/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
+      <description>Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.
+For the main component of my doctoral research, in collaboration with Lo�c Pellisier, and Jake Alexander, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.</description>
+    </item>
+    
+    <item>
       <title>Competitor Adaptation and Climate Change Responses</title>
       <link>https://blockecology.github.io/project/cache/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/cache/</guid>
       <description>The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.
 I will test these ideas using a combination of greenhouse experiments and mathematical models.
 In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of Arabidopsis thaliana when growing in competition with different species.</description>
-    </item>
-    
-    <item>
-      <title>Species Interactions in Warmer Alps</title>
-      <link>https://blockecology.github.io/project/warmer-mountains/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
-      <description>Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.
-For the main component of my doctoral research, in collaboration with Lo�c Pellisier, and Jake Alexander, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.</description>
     </item>
     
   </channel>

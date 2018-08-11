@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biodiversity Dynamics | Sebastian Block on Biodiversity Dynamics | Sebastian Block</title>
+    <title>EcoDynamics | Sebastian Block on EcoDynamics | Sebastian Block</title>
     <link>https://blockecology.github.io/</link>
-    <description>Recent content in Biodiversity Dynamics | Sebastian Block on Biodiversity Dynamics | Sebastian Block</description>
+    <description>Recent content in EcoDynamics | Sebastian Block on EcoDynamics | Sebastian Block</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,19 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Oak forest diversity in an heterogeneous volcanic landscape</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
+      <title>Drivers of Community Dynamics in Warmer Mountains</title>
+      <link>https://blockecology.github.io/project/warmer-mountains/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
+      <description>
 
-&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+&lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
+
+&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loïc Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
+
+&lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
+
+&lt;h2 id=&#34;field-experiment&#34;&gt;Field experiment&lt;/h2&gt;
+
+&lt;p&gt;We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
+
+&lt;p&gt;{{&amp;lt; youtube aKZhiICIRY&amp;amp;t=1s &amp;gt;}}&lt;/p&gt;
+
+&lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
+
+&lt;p&gt;Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://sblock.weebly.com/uploads/9/5/0/0/9500225/fig-1-method-v4_orig.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Species distribution modeling and fossil hunting</title>
+      <title>Competitor Adaptation and Climate Change Responses</title>
+      <link>https://blockecology.github.io/project/cache/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/cache/</guid>
+      <description>&lt;p&gt;The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.&lt;/p&gt;
+
+&lt;p&gt;I will test these ideas using a combination of greenhouse experiments and mathematical models.&lt;/p&gt;
+
+&lt;p&gt;In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; when growing in competition with different species. Then, I will use the these data to build a model that projects how a population with equal frequencies of all genotypes would evolve in each competitive environment after a certain number of generations.&lt;/p&gt;
+
+&lt;p&gt;In a second greenhouse experiment, I will first assemble &lt;em&gt;Arabidopsis&lt;/em&gt; populations that &amp;ldquo;evolved&amp;rdquo; in different competitive environments (and thus have different frequencies of the 15 initial genotypes). Then I will subject the different populations to stressful changes in abiotic conditions and assess their ability to persist.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fossil hunting with statistical models</title>
       <link>https://blockecology.github.io/project/fossils/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
       
@@ -44,6 +76,18 @@
 &lt;li&gt;&lt;a href=&#34;https://www.adelaide.edu.au/news/news84042.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt; from the University of Adelaide&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.uni-kiel.de/unizeit/index.php?bid=870502&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt; in the Unizeit, newspaper of the University of Kiel (in German)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forest diversity in an heterogeneous landscape</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+
+&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
 </description>
     </item>
     
@@ -92,50 +136,6 @@
       
       <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
       <description>&lt;p&gt;Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information. We measured basal area, vegetation height, crown cover, density of individuals, and species richness in 60 plots in the oak forests of a complex volcanic landscape in central Mexico. We modelled each vegetation attribute as a function of surface metrics derived from Google Earth and SPOT images, and selected the best-supported linear models from each source. Total species richness was the best-described and predicted variable: the best Google Earth-based model explained nearly as much variation in species richness as its SPOT counterpart ($R^2$ = 0.44 and 0.51, respectively). However, Google Earth metrics emerged as poor predictors of all remaining vegetation attributes, whilst SPOT metrics showed potential for predicting vegetation height. We conclude that Google Earth imagery can be used to estimate species richness in complex landscapes. As it is freely available, Google Earth can broaden the use of remote sensing by researchers and managers in low-income tropical countries where most biodiversity hotspots are found.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Competitor Adaptation and Climate Change Responses</title>
-      <link>https://blockecology.github.io/project/cache/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/cache/</guid>
-      <description>&lt;p&gt;The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.&lt;/p&gt;
-
-&lt;p&gt;I will test these ideas using a combination of greenhouse experiments and mathematical models.&lt;/p&gt;
-
-&lt;p&gt;In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; when growing in competition with different species. Then, I will use the these data to build a model that projects how a population with equal frequencies of all genotypes would evolve in each competitive environment after a certain number of generations.&lt;/p&gt;
-
-&lt;p&gt;In a second greenhouse experiment, I will first assemble &lt;em&gt;Arabidopsis&lt;/em&gt; populations that &amp;ldquo;evolved&amp;rdquo; in different competitive environments (and thus have different frequencies of the 15 initial genotypes). Then I will subject the different populations to stressful changes in abiotic conditions and assess their ability to persist.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Species Interactions in Warmer Alps</title>
-      <link>https://blockecology.github.io/project/warmer-mountains/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
-      <description>
-
-&lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
-
-&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loïc Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
-
-&lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
-
-&lt;h2 id=&#34;field-experiment&#34;&gt;Field experiment&lt;/h2&gt;
-
-&lt;p&gt;We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
-
-&lt;p&gt;{{&amp;lt; youtube aKZhiICIRY&amp;amp;t=1s &amp;gt;}}&lt;/p&gt;
-
-&lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
-
-&lt;p&gt;Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://sblock.weebly.com/uploads/9/5/0/0/9500225/fig-1-method-v4_orig.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
