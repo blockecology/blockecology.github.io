@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Drivers of Community Dynamics in Warmer Mountains</title>
+      <title>Community Dynamics in Warmer Mountains</title>
       <link>https://blockecology.github.io/project/warmer-mountains/</link>
       <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
       
@@ -20,7 +20,7 @@
 
 &lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
 
-&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loïc Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
+&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loic Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
 
 &lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
 
-&lt;p&gt;{{&amp;lt; youtube aKZhiICIRY&amp;amp;t=1s &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-aKZhiICIRY&#34; target=&#34;_blank&#34;&gt;Watch&lt;/a&gt; a Swiss News report about the experiment.&lt;/p&gt;
 
 &lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
 
@@ -51,43 +51,6 @@
 &lt;p&gt;In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of &lt;em&gt;Arabidopsis thaliana&lt;/em&gt; when growing in competition with different species. Then, I will use the these data to build a model that projects how a population with equal frequencies of all genotypes would evolve in each competitive environment after a certain number of generations.&lt;/p&gt;
 
 &lt;p&gt;In a second greenhouse experiment, I will first assemble &lt;em&gt;Arabidopsis&lt;/em&gt; populations that &amp;ldquo;evolved&amp;rdquo; in different competitive environments (and thus have different frequencies of the 15 initial genotypes). Then I will subject the different populations to stressful changes in abiotic conditions and assess their ability to persist.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fossil hunting with statistical models</title>
-      <link>https://blockecology.github.io/project/fossils/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/fossils/</guid>
-      <description>
-
-&lt;p&gt;Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.&lt;/p&gt;
-
-&lt;p&gt;The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.&lt;/p&gt;
-
-&lt;p&gt;But within the distribution of a species, only a few organisms will be fossilized, and only a few fossils will ever be found. By modeling the probability of fossil preservation and discovery as a function of environmental variables, and combining the predictions with those of the climate-envelope model, we can detect the best areas to look for fossils of the species of interest.&lt;/p&gt;
-
-&lt;h3 id=&#34;media-coverage&#34;&gt;Media coverage&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.everythingdinosaur.co.uk/blog/_archives/2016/04/08&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Everything Dinosour&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://conservationbytes.com/2016/03/30/how-to-find-fossils/&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Conservation Bytes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adelaide.edu.au/news/news84042.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt; from the University of Adelaide&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uni-kiel.de/unizeit/index.php?bid=870502&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt; in the Unizeit, newspaper of the University of Kiel (in German)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forest diversity in an heterogeneous landscape</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
-
-&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
 </description>
     </item>
     
@@ -136,6 +99,31 @@
       
       <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
       <description>&lt;p&gt;Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information. We measured basal area, vegetation height, crown cover, density of individuals, and species richness in 60 plots in the oak forests of a complex volcanic landscape in central Mexico. We modelled each vegetation attribute as a function of surface metrics derived from Google Earth and SPOT images, and selected the best-supported linear models from each source. Total species richness was the best-described and predicted variable: the best Google Earth-based model explained nearly as much variation in species richness as its SPOT counterpart ($R^2$ = 0.44 and 0.51, respectively). However, Google Earth metrics emerged as poor predictors of all remaining vegetation attributes, whilst SPOT metrics showed potential for predicting vegetation height. We conclude that Google Earth imagery can be used to estimate species richness in complex landscapes. As it is freely available, Google Earth can broaden the use of remote sensing by researchers and managers in low-income tropical countries where most biodiversity hotspots are found.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fossil hunting with statistical models</title>
+      <link>https://blockecology.github.io/project/fossils/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/fossils/</guid>
+      <description>
+
+&lt;p&gt;Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.&lt;/p&gt;
+
+&lt;p&gt;The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.&lt;/p&gt;
+
+&lt;p&gt;But within the distribution of a species, only a few organisms will be fossilized, and only a few fossils will ever be found. By modeling the probability of fossil preservation and discovery as a function of environmental variables, and combining the predictions with those of the climate-envelope model, we can detect the best areas to look for fossils of the species of interest.&lt;/p&gt;
+
+&lt;h3 id=&#34;media-coverage&#34;&gt;Media coverage&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.everythingdinosaur.co.uk/blog/_archives/2016/04/08&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Everything Dinosour&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://conservationbytes.com/2016/03/30/how-to-find-fossils/&#34; target=&#34;_blank&#34;&gt;Blog post&lt;/a&gt; in Conservation Bytes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adelaide.edu.au/news/news84042.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt; from the University of Adelaide&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uni-kiel.de/unizeit/index.php?bid=870502&#34; target=&#34;_blank&#34;&gt;Article&lt;/a&gt; in the Unizeit, newspaper of the University of Kiel (in German)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -344,6 +332,18 @@ git submodule update --init --recursive
       
       <guid>https://blockecology.github.io/publication/tepoz-oakforests/</guid>
       <description>&lt;p&gt;Quercus (oak) is among the most speciose and widespread genera occurring in Mexico; paradoxically, the ecological knowledge about Mexican oak forests is meager. Here we describe the floristic composition, diversity, and structure of the terrestrial component of the oak forests of El Tepozteco National Park (TNP), Central Mexico, and relate their floristic and structural heterogeneity to the geomorphological complexity of the park. We randomly distributed sixty 100-$m^2$ plots among six geomorphological units: the lava fields of the Chichinautzin, Suchiooc, Otates (upper and lower) and Oclayuca volcanoes, and the El Tepozteco Range. Vegetation structure and diversity were described by geomorphological unit and for the oak forest as a whole for canopy (DBH $\geq$ 2.5 cm) and understory plants. We report 324 vascular plant species recorded in the plots, plus 17 species collected outside the plots (a total of 341 species, 208 genera and 88 families). The family with more species was Asteraceae (57) and the most speciose genus was Salvia (10). Geomorphological units differed in mean species richness per plot (2.0-33.5 species), absolute richness (60-149 species), and species? structural contributions. Structural differences were also observed, but they were not always significant. Quercus rugosa was dominant in Chichinautzin, Suchiooc, and upper Otates; Styrax ramirezii in lower Otates and Oclayuca, and Quercus castanea and Q. obtusata shared dominance in El Tepozteco Range (the unit with the largest overall richness and oak species diversity). The structure and composition of TNP oak forests are highly variable, apparently due to the region&amp;rsquo;s complex geological past. This heterogeneity should guide the conservation and restoration of these forests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forest diversity and landscape heterogeneity</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+
+&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
 </description>
     </item>
     

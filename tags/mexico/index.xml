@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/mexico/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Forest diversity in an heterogeneous landscape</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across the region. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.
-For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.</description>
-    </item>
     
     <item>
       <title>Landscape-scale effects of geomorphological heterogeneity on variability of oak forest structure and composition in a monogenetic volcanic field</title>
@@ -40,6 +30,16 @@ Methods: We sampled oak forests in six geomorphological units within a monogenet
       
       <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
       <description>Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information.</description>
+    </item>
+    
+    <item>
+      <title>Forest diversity and landscape heterogeneity</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across the region. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.
+For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.</description>
     </item>
     
   </channel>
