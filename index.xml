@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Community Dynamics in Warmer Mountains</title>
       <link>https://blockecology.github.io/project/warmer-mountains/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
       <description>
@@ -41,7 +41,7 @@
     <item>
       <title>Competitor Adaptation and Climate Change Responses</title>
       <link>https://blockecology.github.io/project/cache/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/project/cache/</guid>
       <description>&lt;p&gt;The contrasting competitive environments that populations of a species face across their range can create mosaics of local adaptation. Locally adapted populations may differ in their responses to climate change when the traits selected by their new environment are correlated with those selected by the historical competitive environment.&lt;/p&gt;
@@ -57,7 +57,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>https://blockecology.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -67,7 +67,7 @@
     <item>
       <title>Landscape-scale effects of geomorphological heterogeneity on variability of oak forest structure and composition in a monogenetic volcanic field</title>
       <link>https://blockecology.github.io/publication/tepoz-ped/</link>
-      <pubDate>Wed, 31 May 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 31 May 2017 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/publication/tepoz-ped/</guid>
       <description>&lt;p&gt;Background: Eruptive events in monogenetic volcanic fields create mosaics of lava fields that result in different successional times and stages, and environmental conditions. Such geomorphological heterogeneity may be related to patterns of vegetation structure, diversity, and composition across a landscape.&lt;/p&gt;
@@ -85,7 +85,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://blockecology.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://blockecology.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -95,7 +95,7 @@
     <item>
       <title>Using Google Earth Surface Metrics to Predict Plant Species Richness in a Complex Landscape</title>
       <link>https://blockecology.github.io/publication/tepoz-remotesensing/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
       <description>&lt;p&gt;Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information. We measured basal area, vegetation height, crown cover, density of individuals, and species richness in 60 plots in the oak forests of a complex volcanic landscape in central Mexico. We modelled each vegetation attribute as a function of surface metrics derived from Google Earth and SPOT images, and selected the best-supported linear models from each source. Total species richness was the best-described and predicted variable: the best Google Earth-based model explained nearly as much variation in species richness as its SPOT counterpart ($R^2$ = 0.44 and 0.51, respectively). However, Google Earth metrics emerged as poor predictors of all remaining vegetation attributes, whilst SPOT metrics showed potential for predicting vegetation height. We conclude that Google Earth imagery can be used to estimate species richness in complex landscapes. As it is freely available, Google Earth can broaden the use of remote sensing by researchers and managers in low-income tropical countries where most biodiversity hotspots are found.&lt;/p&gt;
@@ -105,7 +105,7 @@
     <item>
       <title>Fossil hunting with statistical models</title>
       <link>https://blockecology.github.io/project/fossils/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/project/fossils/</guid>
       <description>
@@ -130,7 +130,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://blockecology.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/post/getting-started/</guid>
       <description>
@@ -318,7 +318,7 @@ git submodule update --init --recursive
     <item>
       <title>Where to dig for fossils: Combining climate-envelope, taphonomy and discovery models</title>
       <link>https://blockecology.github.io/publication/fossil-hunting/</link>
-      <pubDate>Wed, 30 Mar 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/publication/fossil-hunting/</guid>
       <description>&lt;p&gt;Fossils represent invaluable data to reconstruct the past history of life, yet fossil-rich sites are often rare and difficult to find. The traditional fossil-hunting approach focuses on small areas and has not yet taken advantage of modelling techniques commonly used in ecology to account for an organism?s past distributions. We propose a new method to assist finding fossils at continental scales based on modelling the past distribution of species, the geological suitability of fossil preservation and the likelihood of fossil discovery in the field, and apply it to several genera of Australian megafauna that went extinct in the Late Quaternary. Our models predicted higher fossil potentials for independent sites than for randomly selected locations (mean Kolmogorov-Smirnov statistic = 0.66). We demonstrate the utility of accounting for the distribution history of fossil taxa when trying to find the most suitable areas to look for fossils. For some genera, the probability of finding fossils based on simple climate-envelope models was higher than the probability based on models incorporating current conditions associated with fossil preservation and discovery as predictors. However, combining the outputs from climate-envelope, preservation, and discovery models resulted in the most accurate predictions of potential fossil sites at a continental scale. We proposed potential areas to discover new fossils of Diprotodon, Zygomaturus, Protemnodon, Thylacoleo, and Genyornis, and provide guidelines on how to apply our approach to assist fossil hunting in other continents and geological settings.&lt;/p&gt;
@@ -328,7 +328,7 @@ git submodule update --init --recursive
     <item>
       <title>Structure and diversity of oak forests in El Tepozteco National Park (Morelos, Mexico)</title>
       <link>https://blockecology.github.io/publication/tepoz-oakforests/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/publication/tepoz-oakforests/</guid>
       <description>&lt;p&gt;Quercus (oak) is among the most speciose and widespread genera occurring in Mexico; paradoxically, the ecological knowledge about Mexican oak forests is meager. Here we describe the floristic composition, diversity, and structure of the terrestrial component of the oak forests of El Tepozteco National Park (TNP), Central Mexico, and relate their floristic and structural heterogeneity to the geomorphological complexity of the park. We randomly distributed sixty 100-$m^2$ plots among six geomorphological units: the lava fields of the Chichinautzin, Suchiooc, Otates (upper and lower) and Oclayuca volcanoes, and the El Tepozteco Range. Vegetation structure and diversity were described by geomorphological unit and for the oak forest as a whole for canopy (DBH $\geq$ 2.5 cm) and understory plants. We report 324 vascular plant species recorded in the plots, plus 17 species collected outside the plots (a total of 341 species, 208 genera and 88 families). The family with more species was Asteraceae (57) and the most speciose genus was Salvia (10). Geomorphological units differed in mean species richness per plot (2.0-33.5 species), absolute richness (60-149 species), and species? structural contributions. Structural differences were also observed, but they were not always significant. Quercus rugosa was dominant in Chichinautzin, Suchiooc, and upper Otates; Styrax ramirezii in lower Otates and Oclayuca, and Quercus castanea and Q. obtusata shared dominance in El Tepozteco Range (the unit with the largest overall richness and oak species diversity). The structure and composition of TNP oak forests are highly variable, apparently due to the region&amp;rsquo;s complex geological past. This heterogeneity should guide the conservation and restoration of these forests.&lt;/p&gt;
@@ -338,7 +338,7 @@ git submodule update --init --recursive
     <item>
       <title>Forest diversity and landscape heterogeneity</title>
       <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/project/tepoz/</guid>
       <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;

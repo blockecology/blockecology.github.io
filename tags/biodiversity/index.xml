@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/biodiversity/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Using Google Earth Surface Metrics to Predict Plant Species Richness in a Complex Landscape</title>
       <link>https://blockecology.github.io/publication/tepoz-remotesensing/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
       <description>Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information.</description>

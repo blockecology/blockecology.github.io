@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,17 +15,17 @@
     <item>
       <title></title>
       <link>https://blockecology.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/home/about/</guid>
       <description>I am a quantitative ecologist interested in how and why biodiversity changes across time and space. I use a range of approaches &amp;ndash; from field experiments to computer simulations &amp;ndash; to understand how species interactions and demography respond to environmental variation across scales.
-I am currently a Ph.D. student at Jonathan Levine&amp;rsquo;s group in ETH Zurich, where I am investigating how species interactions across heterogeneous landscapes mediate ecological and evolutionary responses to climate change.</description>
+I am currently a Ph.D. student at Jonathan Levine&amp;rsquo;s group in Princeton University, where I am investigating how species interactions across heterogeneous landscapes mediate ecological and evolutionary responses to climate change.</description>
     </item>
     
     <item>
       <title>Research</title>
       <link>https://blockecology.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/home/projects/</guid>
       <description></description>
@@ -34,7 +34,7 @@ I am currently a Ph.D. student at Jonathan Levine&amp;rsquo;s group in ETH Zuric
     <item>
       <title>Publications</title>
       <link>https://blockecology.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/home/publications/</guid>
       <description></description>
@@ -43,7 +43,7 @@ I am currently a Ph.D. student at Jonathan Levine&amp;rsquo;s group in ETH Zuric
     <item>
       <title>Contact</title>
       <link>https://blockecology.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/home/contact/</guid>
       <description></description>

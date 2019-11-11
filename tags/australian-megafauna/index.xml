@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/australian-megafauna/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Fossil hunting with statistical models</title>
       <link>https://blockecology.github.io/project/fossils/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
       
       <guid>https://blockecology.github.io/project/fossils/</guid>
       <description>Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.
