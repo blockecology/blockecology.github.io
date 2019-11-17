@@ -20,7 +20,7 @@
 
 &lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
 
-&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loic Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
+&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loic Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
 
 &lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
 
@@ -316,6 +316,16 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>Phenological plasticity is a poor predictor of subalpine plant population performance following experimental climate change</title>
+      <link>https://blockecology.github.io/publication/phenodyn/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/phenodyn/</guid>
+      <description>&lt;p&gt;Phenological shifts, changes in the seasonal timing of life cycle events, are among the best documented responses of species to climate change. However, the consequences of these phenological shifts for population dynamics remain unclear. Population growth could be enhanced if species that advance their phenology benefit from longer growing seasons and gain a pre?emptive advantage in resource competition. However, it might also be reduced if phenological advances increase exposure to stresses, such as herbivores and, in colder climates, harsh abiotic conditions early in the growing season. We exposed subalpine grasslands to ~3?K of warming by transplanting intact turfs from 2000?m to 1400?m elevation in the eastern Swiss Alps, with turfs transplanted within the 2000?m site acting as a control. In the first growing season after transplantation, we recorded species? flowering phenology at both elevations. We also measured species? cover change for three consecutive years as a measure of plant performance. We used models to estimate species? phenological plasticity (the response of flowering time to the change in climate) and analysed its relationship with cover changes following climate change. The phenological plasticity of the 18 species in our study varied widely but was unrelated to their changes in cover. Moreover, early? and late?flowering species did not differ in their cover response to warming, nor in the relationship between cover changes and phenological plasticity. These results were replicated in a similar transplant experiment within the same subalpine community, established one year earlier and using larger turfs. We discuss the various ecological processes that can be affected by phenological shifts, and argue why the population?level consequences of these shifts are likely to be species? and context?specific. Our results highlight the importance of testing assumptions about how warming?induced changes in phenotypic traits, like phenology, impact population dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Where to dig for fossils: Combining climate-envelope, taphonomy and discovery models</title>
       <link>https://blockecology.github.io/publication/fossil-hunting/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
@@ -336,7 +346,7 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Forest diversity and landscape heterogeneity</title>
+      <title>Forest diversity in a volcanic mosaic</title>
       <link>https://blockecology.github.io/project/tepoz/</link>
       <pubDate>Sun, 04 Aug 2013 00:00:00 -0400</pubDate>
       
@@ -344,6 +354,20 @@ git submodule update --init --recursive
       <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
 
 &lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Species range dynamics in space and time</title>
+      <link>https://blockecology.github.io/project/spread-acceleration/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
+      <description>&lt;p&gt;As climate changes, species? ability to spatially track suitable climate depends on their capacity to migrate, a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species? expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species? growth rates, migrations accelerate.&lt;/p&gt;
+
+&lt;p&gt;As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts. I found that climate amelioration following a migration lag can enable species to accelerate their migration and potentially reach the climate velocity. Species with high dispersal capacity require less climatic amelioration and experience smaller range contractions during climate change than species with lower dispersal.&lt;/p&gt;
+
+&lt;p&gt;Acceleration of migration due to climate amelioration can interact with acceleration due to dispersal evolution, and do so in sometimes complex ways such that cause the spread velocity to transiently exceed the climate velocity. Failing to account for the acceleration of migration due to climate amelioration can lead to erroneous conclusions about species capacity to spatially track suitable climate.&lt;/p&gt;
 </description>
     </item>
     

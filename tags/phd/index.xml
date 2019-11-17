@@ -33,5 +33,15 @@ I will test these ideas using a combination of greenhouse experiments and mathem
 In a first greenhouse experiment, I will estimate the relative fecundity of 15 genotypes of Arabidopsis thaliana when growing in competition with different species.</description>
     </item>
     
+    <item>
+      <title>Species range dynamics in space and time</title>
+      <link>https://blockecology.github.io/project/spread-acceleration/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
+      <description>As climate changes, species? ability to spatially track suitable climate depends on their capacity to migrate, a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species? expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species? growth rates, migrations accelerate.
+As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts.</description>
+    </item>
+    
   </channel>
 </rss>
