@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling on Sustainability Consulting and Analaysis</title>
+    <link>https://blockecology.github.io/tags/modelling/</link>
+    <description>Recent content in Modelling on Sustainability Consulting and Analaysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sat, 11 Aug 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community Dynamics in Warmer Mountains</title>
+      <link>https://blockecology.github.io/project/warmer-mountains/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
+      <description>Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.
+For the main component of my doctoral research, in collaboration with Loic Pellisier, and Jake Alexander, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.</description>
+    </item>
+    
+    <item>
+      <title>Fossil hunting with statistical models</title>
+      <link>https://blockecology.github.io/project/fossils/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/project/fossils/</guid>
+      <description>Fossils are exceptionally valuable for our understanding of the history of life. They are also extremely rare and difficult to find. For my M.Sc. thesis, I combined climate-envelope, taphonomy, and discovery models to identify potential fossil areas of Late Pleistocene Australian megafauna.
+The idea is that for a place to have fossils of a given species, the species must have lived there before dying and becoming fossilized. Thus, by modeling the potential distribution of the species based on paleoclimate and fossil presence data, we can get a first idea of where to look for its fossils.</description>
+    </item>
+    
+    <item>
+      <title>Eco-evo dynamics in climate change migrations</title>
+      <link>https://blockecology.github.io/project/spread-acceleration/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
+      <description>As climate changes, species&amp;rsquo; ability to spatially track suitable climate depends on their capacity to spread (or migrate), a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species&amp;rsquo; expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species&amp;rsquo; growth rates, migrations accelerate.
+As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts.</description>
+    </item>
+    
+  </channel>
+</rss>

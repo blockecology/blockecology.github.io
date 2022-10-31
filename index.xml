@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sebastian Block on Sebastian Block</title>
+    <title>Sustainability Consulting and Analaysis on Sustainability Consulting and Analaysis</title>
     <link>https://blockecology.github.io/</link>
-    <description>Recent content in Sebastian Block on Sebastian Block</description>
+    <description>Recent content in Sustainability Consulting and Analaysis on Sustainability Consulting and Analaysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ecological lags govern the pace and outcome of plant community responses to 21st?century climate change</title>
+      <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>
       <link>https://blockecology.github.io/publication/ecolags/</link>
       <pubDate>Fri, 26 Aug 2022 00:00:00 -0500</pubDate>
       
@@ -73,7 +73,7 @@
 &lt;!-- blank line --&gt;
 
 &lt;p&gt;&lt;figure class=&#34;video_container&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/-aKZhiICIRY&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-aKZhiICIRY&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; width=&#34;200&#34; height=&#34;200&#34;&gt; &lt;/iframe&gt;
 &lt;/figure&gt;
 &lt;!-- blank line --&gt;&lt;/p&gt;
 
@@ -367,19 +367,7 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Forest diversity in a volcanic mosaic</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
-
-&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Species range dynamics in space and time</title>
+      <title>Eco-evo dynamics in climate change migrations</title>
       <link>https://blockecology.github.io/project/spread-acceleration/</link>
       <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
       
@@ -391,6 +379,18 @@ git submodule update --init --recursive
 &lt;p&gt;Acceleration of migration due to climate amelioration can interact with acceleration due to dispersal evolution, and do so in sometimes complex ways such that cause the spread velocity to transiently exceed the climate velocity. Climatic amelioration can also accelerate the spread of populations adapted to local climatic conditions. However, competitive interactions shape the spread dynamics of single, locally-adapted genotypes. High densities of cold-adapted genotypes towards the leading range edge of a species can block the spread of warmer-adapted genotypes from the core of the range. This can lead to the extinction of genotypes adapted to range-core conditions, which in turn can reduce competition and thereby accelerate the spread of genotypes adapted to the warm conditions of the trailing range edge. In some cases, spread acceleration of these warm-adapted genotypes following competitive release can transiently exceed the climate velocity, leading to an expansion of the genotypes&amp;rsquo; distributional range.&lt;/p&gt;
 
 &lt;p&gt;In sum, failing to account for the acceleration of migration due to climate amelioration can lead to erroneous conclusions about species capacity to spatially track suitable climate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forest diversity in a volcanic mosaic</title>
+      <link>https://blockecology.github.io/project/tepoz/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/project/tepoz/</guid>
+      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
+
+&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
 </description>
     </item>
     
