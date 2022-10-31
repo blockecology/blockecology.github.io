@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population spread on Sebastian Block</title>
+    <link>https://blockecology.github.io/tags/population-spread/</link>
+    <description>Recent content in Population spread on Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Sun, 04 Aug 2013 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/population-spread/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Species range dynamics in space and time</title>
+      <link>https://blockecology.github.io/project/spread-acceleration/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
+      <description>As climate changes, species&amp;rsquo; ability to spatially track suitable climate depends on their capacity to spread (or migrate), a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species&amp;rsquo; expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species&amp;rsquo; growth rates, migrations accelerate.
+As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Sebastian Block</title>
+    <link>https://blockecology.github.io/home/</link>
+    <description>Recent content in Homes on Sebastian Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://blockecology.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/home/about/</guid>
+      <description>I am a sustainability consultant specialized on climate change and biodiversity protection. I have a Ph.D. in Ecology and Evolutionary Biology from Princeton University, where I worked with Jonathan Levine investigating how species interactions across heterogeneous landscapes mediate ecological and evolutionary responses to climate change.
+I use a range of data-driven analytic and modelling approaches to quantify sustainability issues, from biodiversity loss and ecosystem degradation to climate change emissions and air pollution.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://blockecology.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://blockecology.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blockecology.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://blockecology.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
