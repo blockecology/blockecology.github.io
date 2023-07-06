@@ -6,8 +6,8 @@
     <description>Recent content in Climate Change on Sustainability Consulting and Analaysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>
       <link>https://blockecology.github.io/publication/ecolags/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/publication/ecolags/</guid>
       <description>Forecasting the trajectories of species assemblages in response to ongoing climate change requires quantifying the time lags in the demographic and ecological processes through which climate impacts species&amp;rsquo; abundances. Since experimental climate manipulations are typically abrupt, the observed species responses may not match their responses to gradual climate change. We addressed this problem by transplanting alpine grassland turfs to lower elevations, recording species&amp;rsquo; demographic responses to climate and competition, and using these data to parameterise community dynamics models forced by scenarios of gradual climate change.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Lowland plant arrival in alpine ecosystems facilitates a decrease in soil carbon content under experimental climate warming</title>
       <link>https://blockecology.github.io/publication/lowland-soilcarbon/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/publication/lowland-soilcarbon/</guid>
       <description>Climate warming is releasing carbon from soils around the world, constituting a positive climate feedback. Warming is also causing species to expand their ranges into new ecosystems. Yet, in most ecosystems, whether range expanding species will amplify or buffer expected soil carbon loss is unknown. Here, we used two whole-community transplant experiments and a follow-up glasshouse experiment to determine whether the establishment of herbaceous lowland plants in alpine ecosystems influences soil carbon content under warming.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>How Dispersal Evolution and Local Adaptation Affect the Range Dynamics of Species Lagging Behind Climate Change</title>
       <link>https://blockecology.github.io/publication/spread-waves/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/publication/spread-waves/</guid>
       <description>As climate changes, species? ability to spatially track suitable climate depends on their spread velocity, a function of their population growth and dispersal capacity. When climate changes faster than species can spread, the climate experienced at species? expanding range edges may ameliorate as conditions become increasingly similar to those of the range core. When this boosts species? growth rates, their spread accelerates. Here, we use simulations of a spreading population with an annual life history to explore how climatic amelioration interacts with dispersal evolution and local adaptation to determine the dynamics of spread.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Phenological plasticity is a poor predictor of subalpine plant population performance following experimental climate change</title>
       <link>https://blockecology.github.io/publication/phenodyn/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>https://blockecology.github.io/publication/phenodyn/</guid>
       <description>Phenological shifts, changes in the seasonal timing of life cycle events, are among the best documented responses of species to climate change. However, the consequences of these phenological shifts for population dynamics remain unclear. Population growth could be enhanced if species that advance their phenology benefit from longer growing seasons and gain a pre?emptive advantage in resource competition. However, it might also be reduced if phenological advances increase exposure to stresses, such as herbivores and, in colder climates, harsh abiotic conditions early in the growing season.</description>
@@ -51,7 +51,7 @@
     <item>
       <title>Community Dynamics in Warmer Mountains</title>
       <link>https://blockecology.github.io/project/warmer-mountains/</link>
-      <pubDate>Sat, 11 Aug 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/warmer-mountains/</guid>
       <description>Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.
@@ -61,7 +61,7 @@ For the main component of my doctoral research, in collaboration with Loic Pelli
     <item>
       <title>Eco-evo dynamics in climate change migrations</title>
       <link>https://blockecology.github.io/project/spread-acceleration/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
       <description>As climate changes, species&amp;rsquo; ability to spatially track suitable climate depends on their capacity to spread (or migrate), a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species&amp;rsquo; expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species&amp;rsquo; growth rates, migrations accelerate.
