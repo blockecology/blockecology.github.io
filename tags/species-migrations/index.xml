@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Species Migrations on Science-Based Sustainability Consulting</title>
+    <link>https://blockecology.github.io/tags/species-migrations/</link>
+    <description>Recent content in Species Migrations on Science-Based Sustainability Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/species-migrations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lowland plant arrival in alpine ecosystems facilitates a decrease in soil carbon content under experimental climate warming</title>
+      <link>https://blockecology.github.io/publication/lowland-soilcarbon/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/lowland-soilcarbon/</guid>
+      <description>Climate warming is releasing carbon from soils around the world, constituting a positive climate feedback. Warming is also causing species to expand their ranges into new ecosystems. Yet, in most ecosystems, whether range expanding species will amplify or buffer expected soil carbon loss is unknown. Here, we used two whole-community transplant experiments and a follow-up glasshouse experiment to determine whether the establishment of herbaceous lowland plants in alpine ecosystems influences soil carbon content under warming.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phenology on Science-Based Sustainability Consulting</title>
+    <link>https://blockecology.github.io/tags/phenology/</link>
+    <description>Recent content in Phenology on Science-Based Sustainability Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/phenology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Dispersal Evolution and Local Adaptation Affect the Range Dynamics of Species Lagging Behind Climate Change</title>
+      <link>https://blockecology.github.io/publication/spread-waves/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/spread-waves/</guid>
+      <description>As climate changes, species? ability to spatially track suitable climate depends on their spread velocity, a function of their population growth and dispersal capacity. When climate changes faster than species can spread, the climate experienced at species? expanding range edges may ameliorate as conditions become increasingly similar to those of the range core. When this boosts species? growth rates, their spread accelerates. Here, we use simulations of a spreading population with an annual life history to explore how climatic amelioration interacts with dispersal evolution and local adaptation to determine the dynamics of spread.</description>
+    </item>
+    
+    <item>
+      <title>Phenological plasticity is a poor predictor of subalpine plant population performance following experimental climate change</title>
+      <link>https://blockecology.github.io/publication/phenodyn/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/phenodyn/</guid>
+      <description>Phenological shifts, changes in the seasonal timing of life cycle events, are among the best documented responses of species to climate change. However, the consequences of these phenological shifts for population dynamics remain unclear. Population growth could be enhanced if species that advance their phenology benefit from longer growing seasons and gain a pre?emptive advantage in resource competition. However, it might also be reduced if phenological advances increase exposure to stresses, such as herbivores and, in colder climates, harsh abiotic conditions early in the growing season.</description>
+    </item>
+    
+  </channel>
+</rss>

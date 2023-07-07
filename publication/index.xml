@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Science-Based Sustainability Consulting</title>
+    <link>https://blockecology.github.io/publication/</link>
+    <description>Recent content in Publications on Science-Based Sustainability Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>
+      <link>https://blockecology.github.io/publication/ecolags/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/ecolags/</guid>
+      <description>Forecasting the trajectories of species assemblages in response to ongoing climate change requires quantifying the time lags in the demographic and ecological processes through which climate impacts species&amp;rsquo; abundances. Since experimental climate manipulations are typically abrupt, the observed species responses may not match their responses to gradual climate change. We addressed this problem by transplanting alpine grassland turfs to lower elevations, recording species&amp;rsquo; demographic responses to climate and competition, and using these data to parameterise community dynamics models forced by scenarios of gradual climate change.</description>
+    </item>
+    
+    <item>
+      <title>Lowland plant arrival in alpine ecosystems facilitates a decrease in soil carbon content under experimental climate warming</title>
+      <link>https://blockecology.github.io/publication/lowland-soilcarbon/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/lowland-soilcarbon/</guid>
+      <description>Climate warming is releasing carbon from soils around the world, constituting a positive climate feedback. Warming is also causing species to expand their ranges into new ecosystems. Yet, in most ecosystems, whether range expanding species will amplify or buffer expected soil carbon loss is unknown. Here, we used two whole-community transplant experiments and a follow-up glasshouse experiment to determine whether the establishment of herbaceous lowland plants in alpine ecosystems influences soil carbon content under warming.</description>
+    </item>
+    
+    <item>
+      <title>How Dispersal Evolution and Local Adaptation Affect the Range Dynamics of Species Lagging Behind Climate Change</title>
+      <link>https://blockecology.github.io/publication/spread-waves/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/spread-waves/</guid>
+      <description>As climate changes, species? ability to spatially track suitable climate depends on their spread velocity, a function of their population growth and dispersal capacity. When climate changes faster than species can spread, the climate experienced at species? expanding range edges may ameliorate as conditions become increasingly similar to those of the range core. When this boosts species? growth rates, their spread accelerates. Here, we use simulations of a spreading population with an annual life history to explore how climatic amelioration interacts with dispersal evolution and local adaptation to determine the dynamics of spread.</description>
+    </item>
+    
+    <item>
+      <title>Phenological plasticity is a poor predictor of subalpine plant population performance following experimental climate change</title>
+      <link>https://blockecology.github.io/publication/phenodyn/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/phenodyn/</guid>
+      <description>Phenological shifts, changes in the seasonal timing of life cycle events, are among the best documented responses of species to climate change. However, the consequences of these phenological shifts for population dynamics remain unclear. Population growth could be enhanced if species that advance their phenology benefit from longer growing seasons and gain a pre?emptive advantage in resource competition. However, it might also be reduced if phenological advances increase exposure to stresses, such as herbivores and, in colder climates, harsh abiotic conditions early in the growing season.</description>
+    </item>
+    
+    <item>
+      <title>Landscape-scale effects of geomorphological heterogeneity on variability of oak forest structure and composition in a monogenetic volcanic field</title>
+      <link>https://blockecology.github.io/publication/tepoz-ped/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/tepoz-ped/</guid>
+      <description>Background: Eruptive events in monogenetic volcanic fields create mosaics of lava fields that result in different successional times and stages, and environmental conditions. Such geomorphological heterogeneity may be related to patterns of vegetation structure, diversity, and composition across a landscape.
+Aims: To examine landscape-scale effects of geomorphological heterogeneity on the spatial variability of oak forest structure and composition in a monogenetic volcanic field.
+Methods: We sampled oak forests in six geomorphological units within a monogenetic volcanic field in El Tepozteco National Park and carried out redundancy analyses to relate environmental variables to forest composition and structure.</description>
+    </item>
+    
+    <item>
+      <title>Using Google Earth Surface Metrics to Predict Plant Species Richness in a Complex Landscape</title>
+      <link>https://blockecology.github.io/publication/tepoz-remotesensing/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/tepoz-remotesensing/</guid>
+      <description>Google Earth provides a freely available, global mosaic of high-resolution imagery from different sensors that has become popular in environmental and ecological studies. However, such imagery lacks the near-infrared band often used in studying vegetation, thus its potential for estimating vegetation properties remains unclear. In this study, we assess the potential of Google Earth imagery to describe and predict vegetation attributes. Further, we compare it to the potential of SPOT imagery, which has additional spectral information.</description>
+    </item>
+    
+    <item>
+      <title>Where to dig for fossils: Combining climate-envelope, taphonomy and discovery models</title>
+      <link>https://blockecology.github.io/publication/fossil-hunting/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/fossil-hunting/</guid>
+      <description>Fossils represent invaluable data to reconstruct the past history of life, yet fossil-rich sites are often rare and difficult to find. The traditional fossil-hunting approach focuses on small areas and has not yet taken advantage of modelling techniques commonly used in ecology to account for an organism?s past distributions. We propose a new method to assist finding fossils at continental scales based on modelling the past distribution of species, the geological suitability of fossil preservation and the likelihood of fossil discovery in the field, and apply it to several genera of Australian megafauna that went extinct in the Late Quaternary.</description>
+    </item>
+    
+    <item>
+      <title>Structure and diversity of oak forests in El Tepozteco National Park (Morelos, Mexico)</title>
+      <link>https://blockecology.github.io/publication/tepoz-oakforests/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/tepoz-oakforests/</guid>
+      <description>Quercus (oak) is among the most speciose and widespread genera occurring in Mexico; paradoxically, the ecological knowledge about Mexican oak forests is meager. Here we describe the floristic composition, diversity, and structure of the terrestrial component of the oak forests of El Tepozteco National Park (TNP), Central Mexico, and relate their floristic and structural heterogeneity to the geomorphological complexity of the park. We randomly distributed sixty 100-$m^2$ plots among six geomorphological units: the lava fields of the Chichinautzin, Suchiooc, Otates (upper and lower) and Oclayuca volcanoes, and the El Tepozteco Range.</description>
+    </item>
+    
+  </channel>
+</rss>
