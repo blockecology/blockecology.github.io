@@ -23,5 +23,14 @@ Deciding how much each indicator counts towards the overall EPI score involves s
 The EPI website has a tool to modify the relative weights of environmental issue categories and policy objectives, but not the weight of individual indicators.</description>
     </item>
     
+    <item>
+      <title>Plant community dynamics under climate change</title>
+      <link>https://blockecology.github.io/apps/alpine_dynamics/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/apps/alpine_dynamics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
