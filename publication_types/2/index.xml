@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eco-physiological and morphological traits explain alpine plant species&#39; response to warming</title>
+      <link>https://blockecology.github.io/publication/ecophysio/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/ecophysio/</guid>
+      <description>Understanding the traits mediating species&amp;rsquo; responses to climate change is a cornerstone for predicting future community composition and ecosystem function.
+Although species&amp;rsquo; eco-physiological properties determine their response to environmental change, most trait-based studies focus on a small subset of easily measured morphological traits as proxies for physiology. This choice may limit our ability to predict the impacts of climate change on species&amp;rsquo; demography, and obscure the underlying mechanisms.
+We conducted a transplantation experiment along a 1000-m elevation gradient in the Alps to quantify the degree to which changes in plant abundance due to climate warming were predicted by eco-physiological performance versus common morphological traits.</description>
+    </item>
     
     <item>
       <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>

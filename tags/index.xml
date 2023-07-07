@@ -51,7 +51,7 @@
     <item>
       <title>Climate Change</title>
       <link>https://blockecology.github.io/tags/climate-change/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>https://blockecology.github.io/tags/climate-change/</guid>
       <description></description>
@@ -76,20 +76,20 @@
     </item>
     
     <item>
+      <title>EPI</title>
+      <link>https://blockecology.github.io/tags/epi/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/tags/epi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ecological theory</title>
       <link>https://blockecology.github.io/tags/ecological-theory/</link>
       <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/tags/ecological-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Field Work</title>
-      <link>https://blockecology.github.io/tags/field-work/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/tags/field-work/</guid>
       <description></description>
     </item>
     
@@ -103,11 +103,20 @@
     </item>
     
     <item>
-      <title>Forest Ecology</title>
-      <link>https://blockecology.github.io/tags/forest-ecology/</link>
+      <title>ForestEcology</title>
+      <link>https://blockecology.github.io/tags/forestecology/</link>
       <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
       
-      <guid>https://blockecology.github.io/tags/forest-ecology/</guid>
+      <guid>https://blockecology.github.io/tags/forestecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Traits</title>
+      <link>https://blockecology.github.io/tags/functional-traits/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/tags/functional-traits/</guid>
       <description></description>
     </item>
     
@@ -229,6 +238,15 @@
     </item>
     
     <item>
+      <title>Plants</title>
+      <link>https://blockecology.github.io/tags/plants/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/tags/plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Population Dynamics</title>
       <link>https://blockecology.github.io/tags/population-dynamics/</link>
       <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
@@ -252,6 +270,15 @@
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
       
       <guid>https://blockecology.github.io/tags/remote-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>https://blockecology.github.io/tags/shiny/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/tags/shiny/</guid>
       <description></description>
     </item>
     
@@ -301,9 +328,18 @@
     </item>
     
     <item>
+      <title>Sustainability</title>
+      <link>https://blockecology.github.io/tags/sustainability/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Swiss Alps</title>
       <link>https://blockecology.github.io/tags/swiss-alps/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>https://blockecology.github.io/tags/swiss-alps/</guid>
       <description></description>

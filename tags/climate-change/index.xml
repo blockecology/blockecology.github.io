@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blockecology.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Eco-physiological and morphological traits explain alpine plant species&#39; response to warming</title>
+      <link>https://blockecology.github.io/publication/ecophysio/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/ecophysio/</guid>
+      <description>Understanding the traits mediating species&amp;rsquo; responses to climate change is a cornerstone for predicting future community composition and ecosystem function.
+Although species&amp;rsquo; eco-physiological properties determine their response to environmental change, most trait-based studies focus on a small subset of easily measured morphological traits as proxies for physiology. This choice may limit our ability to predict the impacts of climate change on species&amp;rsquo; demography, and obscure the underlying mechanisms.
+We conducted a transplantation experiment along a 1000-m elevation gradient in the Alps to quantify the degree to which changes in plant abundance due to climate warming were predicted by eco-physiological performance versus common morphological traits.</description>
+    </item>
     
     <item>
       <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>
@@ -46,16 +57,6 @@
       
       <guid>https://blockecology.github.io/publication/phenodyn/</guid>
       <description>Phenological shifts, changes in the seasonal timing of life cycle events, are among the best documented responses of species to climate change. However, the consequences of these phenological shifts for population dynamics remain unclear. Population growth could be enhanced if species that advance their phenology benefit from longer growing seasons and gain a pre?emptive advantage in resource competition. However, it might also be reduced if phenological advances increase exposure to stresses, such as herbivores and, in colder climates, harsh abiotic conditions early in the growing season.</description>
-    </item>
-    
-    <item>
-      <title>Eco-evo dynamics in climate change migrations</title>
-      <link>https://blockecology.github.io/project/spread-acceleration/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
-      <description>As climate changes, species&amp;rsquo; ability to spatially track suitable climate depends on their capacity to spread (or migrate), a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species&amp;rsquo; expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species&amp;rsquo; growth rates, migrations accelerate.
-As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts.</description>
     </item>
     
   </channel>

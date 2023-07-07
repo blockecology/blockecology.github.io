@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Eco-physiological and morphological traits explain alpine plant species&#39; response to warming</title>
+      <link>https://blockecology.github.io/publication/ecophysio/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://blockecology.github.io/publication/ecophysio/</guid>
+      <description>&lt;p&gt;Understanding the traits mediating species&amp;rsquo; responses to climate change is a cornerstone for predicting future community composition and ecosystem function.&lt;/p&gt;
+
+&lt;p&gt;Although species&amp;rsquo; eco-physiological properties determine their response to environmental change, most trait-based studies focus on a small subset of easily measured morphological traits as proxies for physiology. This choice may limit our ability to predict the impacts of climate change on species&amp;rsquo; demography, and obscure the underlying mechanisms.&lt;/p&gt;
+
+&lt;p&gt;We conducted a transplantation experiment along a 1000-m elevation gradient in the Alps to quantify the degree to which changes in plant abundance due to climate warming were predicted by eco-physiological performance versus common morphological traits.&lt;/p&gt;
+
+&lt;p&gt;Physiological measurements revealed that warming favored species with a conservative leaf-level water use strategy whereas species whose leaf-level water use was more ‘wasteful’ were more likely to suffer from the warmer and drier climate. Nevertheless, the predictive power of physiological traits did not exceed that of morphological traits.&lt;/p&gt;
+
+&lt;p&gt;Our results, therefore, show that while easily measured morphological traits can successfully predict plant abundance responses to climate, eco-physiological approaches are needed to understand the underlying mechanism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ecological lags govern the pace and outcome of plant community responses to 21st century climate change</title>
       <link>https://blockecology.github.io/publication/ecolags/</link>
       <pubDate>Fri, 26 Aug 2022 00:00:00 +0200</pubDate>
@@ -60,15 +78,15 @@
 
 &lt;p&gt;Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates.&lt;/p&gt;
 
-&lt;p&gt;For the main component of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loic Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation.&lt;/p&gt;
+&lt;p&gt;As part of my doctoral research, in collaboration with &lt;a href=&#34;http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html&#34; target=&#34;_blank&#34;&gt;Loic Pellisier&lt;/a&gt;, and &lt;a href=&#34;https://alexanderecology.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jake Alexander&lt;/a&gt;, we transplanted pieces of alpine meadow to lower elevations in the Swiss Alps to investigate how climate change alters the performance of different species and the nature of the interactions among them.&lt;/p&gt;
 
-&lt;p&gt;By &lt;strong&gt;combining the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
+&lt;p&gt;We &lt;strong&gt;combined the field experiment with mathematical models&lt;/strong&gt; of metacommunity dynamics to investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species.&lt;/p&gt;
 
 &lt;h2 id=&#34;field-experiment&#34;&gt;Field experiment&lt;/h2&gt;
 
-&lt;p&gt;We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
+&lt;p&gt;We moved alpine turfs to lower elevations in a mountain slope in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.&lt;/p&gt;
 
-&lt;p&gt;Below you can watch a Swiss News report about the experiment.&lt;/p&gt;
+&lt;p&gt;Below is a Swiss News report about the experiment.&lt;/p&gt;
 
 &lt;!-- blank line --&gt;
 
@@ -79,7 +97,7 @@
 
 &lt;h2 id=&#34;data-collection-and-modelling-approach&#34;&gt;Data collection and modelling approach&lt;/h2&gt;
 
-&lt;p&gt;Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.&lt;/p&gt;
+&lt;p&gt;Every summer from 2017 to 2020, we mapped the position and canopy cover of all the plants in the turfs. By comparing maps from one year to the next, we estimated key demographic rates for each species as a function of climate and the density of neighboring plants. With these estimated parameters, we built a model to project community dynamics over the next century under different climate change scenarios.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://sblock.weebly.com/uploads/9/5/0/0/9500225/fig-1-method-v4_orig.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
@@ -367,30 +385,18 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Eco-evo dynamics in climate change migrations</title>
-      <link>https://blockecology.github.io/project/spread-acceleration/</link>
+      <title>2022 EPI weighting explorer</title>
+      <link>https://blockecology.github.io/apps/epi22-weight-explorer/</link>
       <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
       
-      <guid>https://blockecology.github.io/project/spread-acceleration/</guid>
-      <description>&lt;p&gt;As climate changes, species&amp;rsquo; ability to spatially track suitable climate depends on their capacity to spread (or migrate), a function of their population growth and dispersal capacity. Migration lags can ameliorate the climate experienced at species&amp;rsquo; expanding range edges as conditions become increasingly similar to those of the range core. When this boosts species&amp;rsquo; growth rates, migrations accelerate.&lt;/p&gt;
+      <guid>https://blockecology.github.io/apps/epi22-weight-explorer/</guid>
+      <description>&lt;p&gt;The 2022 Environmental Performance Index is composed of 40 indicators measuring different aspect of environmental sustainability, including trends in greenhouse gas emissions, deforestation, waste management, air quality, etc.&lt;/p&gt;
 
-&lt;p&gt;As part of my Ph.D. work, I used simulations of a spreading population with an annual life history to explore the consequences of variation in demography across climatic gradients for the dynamics of climate induced range shifts. In line with &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0706.2008.17025.x&#34; target=&#34;_blank&#34;&gt;previous theory&lt;/a&gt;, I found that climate amelioration following a migration lag can enable species to accelerate their migration and potentially reach the climate velocity. Species with high dispersal capacity require less climatic amelioration and experience smaller range contractions during climate change than species with lower dispersal.&lt;/p&gt;
+&lt;p&gt;Deciding how much each indicator counts towards the overall EPI score involves some subjectivity, and some have criticized the weighting scheme in the 2022 EPI.&lt;/p&gt;
 
-&lt;p&gt;Acceleration of migration due to climate amelioration can interact with acceleration due to dispersal evolution, and do so in sometimes complex ways such that cause the spread velocity to transiently exceed the climate velocity. Climatic amelioration can also accelerate the spread of populations adapted to local climatic conditions. However, competitive interactions shape the spread dynamics of single, locally-adapted genotypes. High densities of cold-adapted genotypes towards the leading range edge of a species can block the spread of warmer-adapted genotypes from the core of the range. This can lead to the extinction of genotypes adapted to range-core conditions, which in turn can reduce competition and thereby accelerate the spread of genotypes adapted to the warm conditions of the trailing range edge. In some cases, spread acceleration of these warm-adapted genotypes following competitive release can transiently exceed the climate velocity, leading to an expansion of the genotypes&amp;rsquo; distributional range.&lt;/p&gt;
+&lt;p&gt;The EPI website has a tool to modify the relative weights of environmental issue categories and policy objectives, but not the weight of individual indicators. Thus, it is not possible to explore how the EPI would change if, for example, the indicator measuring GHG emissions per person had a larger weight.&lt;/p&gt;
 
-&lt;p&gt;In sum, failing to account for the acceleration of migration due to climate amelioration can lead to erroneous conclusions about species capacity to spatially track suitable climate.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forest diversity in a volcanic mosaic</title>
-      <link>https://blockecology.github.io/project/tepoz/</link>
-      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
-      
-      <guid>https://blockecology.github.io/project/tepoz/</guid>
-      <description>&lt;p&gt;For the last 20 million years, volcanic activity in south-central Mexico has created a geological mosaic that shapes the patterns of structure and diversity of the vegetation across &lt;a href=&#34;https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt&#34; target=&#34;_blank&#34;&gt;the region&lt;/a&gt;. In El Tepozteco National Park, just a few miles south of Mexico City, oak forests cover a complex geomorphological landscape composed of eroded lahars and lava flows of different ages and degrees of soil development.&lt;/p&gt;
-
-&lt;p&gt;For my Bachelor research thesis, I described the patterns of oak forest diversity and structure across this geomorphological mosaic, analysed its relation to landscape-scale environmental heterogeneity, and studied the potential of analysing Google Earth satellite image attributes to model and predict vegetation properties.&lt;/p&gt;
+&lt;p&gt;I created this interactive tool to address this limitation. Now you can choose your own weights for every EPI indicator and see how the scores and ranks of countries change as a result.&lt;/p&gt;
 </description>
     </item>
     

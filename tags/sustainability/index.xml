@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on Science-Based Sustainability Consulting</title>
+    <link>https://blockecology.github.io/tags/sustainability/</link>
+    <description>Recent content in Sustainability on Science-Based Sustainability Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Sun, 04 Aug 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2022 EPI weighting explorer</title>
+      <link>https://blockecology.github.io/apps/epi22-weight-explorer/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/apps/epi22-weight-explorer/</guid>
+      <description>The 2022 Environmental Performance Index is composed of 40 indicators measuring different aspect of environmental sustainability, including trends in greenhouse gas emissions, deforestation, waste management, air quality, etc.
+Deciding how much each indicator counts towards the overall EPI score involves some subjectivity, and some have criticized the weighting scheme in the 2022 EPI.
+The EPI website has a tool to modify the relative weights of environmental issue categories and policy objectives, but not the weight of individual indicators.</description>
+    </item>
+    
+  </channel>
+</rss>
