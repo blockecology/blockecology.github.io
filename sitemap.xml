@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/publication/ecophysio/</loc>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/publication/ecolags/</loc>
       <lastmod>2022-08-26T00:00:00+02:00</lastmod>
     </url>
@@ -149,6 +158,15 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/apps/epi22-weight-explorer/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/project/spread-acceleration/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
     </url>
@@ -168,7 +186,7 @@
     <url>
     
       <loc>https://blockecology.github.io/publication_types/2/</loc>
-      <lastmod>2022-08-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,6 +197,16 @@
     
       <loc>https://blockecology.github.io/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://blockecology.github.io/apps/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -227,7 +255,7 @@
     <url>
     
       <loc>https://blockecology.github.io/tags/climate-change/</loc>
-      <lastmod>2022-08-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -256,7 +284,7 @@
     
     <url>
     
-      <loc>https://blockecology.github.io/tags/ecological-theory/</loc>
+      <loc>https://blockecology.github.io/tags/epi/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -266,7 +294,7 @@
     
     <url>
     
-      <loc>https://blockecology.github.io/tags/field-work/</loc>
+      <loc>https://blockecology.github.io/tags/ecological-theory/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -286,8 +314,18 @@
     
     <url>
     
-      <loc>https://blockecology.github.io/tags/forest-ecology/</loc>
+      <loc>https://blockecology.github.io/tags/forestecology/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://blockecology.github.io/tags/functional-traits/</loc>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -426,6 +464,16 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/tags/plants/</loc>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/tags/population-dynamics/</loc>
       <lastmod>2022-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -457,7 +505,7 @@
     <url>
     
       <loc>https://blockecology.github.io/publication_types/</loc>
-      <lastmod>2022-08-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -478,6 +526,16 @@
     
       <loc>https://blockecology.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://blockecology.github.io/tags/shiny/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -536,8 +594,18 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/tags/sustainability/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/tags/swiss-alps/</loc>
-      <lastmod>2022-08-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-11-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
