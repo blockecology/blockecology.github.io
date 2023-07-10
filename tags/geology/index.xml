@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geology on Science-Based Sustainability Consulting</title>
+    <link>https://blockecology.github.io/tags/geology/</link>
+    <description>Recent content in Geology on Science-Based Sustainability Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Sun, 04 Aug 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://blockecology.github.io/tags/geology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geological storytelling</title>
+      <link>https://blockecology.github.io/apps/tepoz-geostory/</link>
+      <pubDate>Sun, 04 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>https://blockecology.github.io/apps/tepoz-geostory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -194,6 +194,15 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/apps/tepoz-geostory/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/apps/primap-hist-explorer/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
     </url>
@@ -352,6 +361,16 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/tags/geology/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/tags/geomorphological-heterogeneity/</loc>
       <lastmod>2017-05-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -404,6 +423,16 @@
     
       <loc>https://blockecology.github.io/tags/msc/</loc>
       <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://blockecology.github.io/tags/mapping/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -534,6 +563,16 @@
     
       <loc>https://blockecology.github.io/tags/remote-sensing/</loc>
       <lastmod>2016-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://blockecology.github.io/tags/scicom/</loc>
+      <lastmod>2013-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
