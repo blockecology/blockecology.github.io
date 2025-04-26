@@ -331,6 +331,16 @@
     
     <url>
     
+      <loc>https://blockecology.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://blockecology.github.io/tags/fieldwork/</loc>
       <lastmod>2018-08-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -573,16 +583,6 @@
     
       <loc>https://blockecology.github.io/tags/scicom/</loc>
       <lastmod>2013-08-04T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://blockecology.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
